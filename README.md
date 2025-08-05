@@ -39,19 +39,19 @@ node testClient.js
   }
 }
 
-Example Successful Response
+
 {
   "valid": true,
   "message": "Conversion verified successfully."
 }
-Example Failed Response
+
 {
   "valid": false,
   "message": "Invalid conversion: metadata mismatch."
 }
 
 ## UML Sequence Diagram
-![This is my UML Sequence Diagram](./uml_sequence.png)
+![This is my UML Sequence Diagram](uml_sequence.png)
 
 
 
