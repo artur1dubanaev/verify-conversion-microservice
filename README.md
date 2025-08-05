@@ -20,6 +20,10 @@ npm install axios
 # In a separate terminal, run the test client
 node testClient.js
 
+## UML Sequence Diagram
+
+![UML Sequence](uml_sequence.png)
+
 ### Example Payload
 ```json
 {
@@ -50,8 +54,6 @@ node testClient.js
   "message": "Invalid conversion: metadata mismatch."
 }
 
-## UML Sequence Diagram
-![This is my UML Sequence Diagram](uml_sequence.png)
 
 
 
